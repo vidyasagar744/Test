@@ -1,3 +1,3 @@
 # Test
 
-this is a test class
+Read me first
