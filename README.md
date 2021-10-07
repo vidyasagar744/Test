@@ -1,3 +1,3 @@
 # Test
 
-This is test class
+this is a test class
